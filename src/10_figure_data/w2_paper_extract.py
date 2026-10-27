@@ -1,5 +1,5 @@
 """Paper figures: the two week-2 inputs that exist only per subject on TRUBA, reduced to small files for the local redraw
-(manuscript/make_panels.py). Same selections as src/02_forward_operator/summarize.py:
+(the paper's figure script, which is not part of the analysis code). Same selections as src/02_forward_operator/summarize.py:
   - distribution over cortex of the per-vertex far-leak fraction, pooled over subjects and hemispheres (figW2-1, middle panel),
     stored as the fraction of vertices at or above each x on the plotted log grid;
   - the example subject's medial-occipital polar-angle maps on the very inflated surface (figW2-3, top row), stored as the
