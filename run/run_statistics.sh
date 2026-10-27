@@ -20,6 +20,7 @@ mkdir -p $R/figures && python3 $C/09_contamination_denoised/fig1_concept.py $R/f
 # cohort jobs); the family rule needs the HCP restricted family table (see README) — else --family-rule none
 FAM=${HCP_FAMILY_TABLE:-configs/splits_7T_family.tsv}
 python3 $C/13_hcp_cohort/cohort_stats.py $R/week13/cohort_final --family-rule lowest --family-table $FAM --label "confirmatory cohort: 158 subjects, primary on one subject per family"
+python3 $C/13_hcp_cohort/primary_holm.py $R/week13                 # post hoc: Holm / Bonferroni across the eight primary tests (S13.7)
 python3 $C/13_hcp_cohort/cohort_stats.py $R/week13/cohort_sensitivity --batches $(ls -d $R/week13/cohort/batch_* | xargs -n1 basename | paste -sd, -) --family-rule lowest --family-table $FAM --label "sensitivity: cohort + 5 relatives of tuning subjects"
 python3 $C/13_hcp_cohort/cohort_stats.py $R/week13/sensitivity_alone --batches batch_17 --family-rule none --family-table $FAM --label "sensitivity set alone (5 subjects, descriptive)"
 python3 $C/13_hcp_cohort/cohort_stats.py $R/week13/pilot_explore --batches pilot --family-rule none --family-table $FAM --label "pilot development set, 15 subjects (exploratory)"
