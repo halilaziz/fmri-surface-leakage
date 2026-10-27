@@ -1,0 +1,581 @@
+{
+ "subjects": [
+  "sub-wlsubj001",
+  "sub-wlsubj004",
+  "sub-wlsubj006",
+  "sub-wlsubj007",
+  "sub-wlsubj014",
+  "sub-wlsubj019",
+  "sub-wlsubj023",
+  "sub-wlsubj042",
+  "sub-wlsubj043",
+  "sub-wlsubj045",
+  "sub-wlsubj046",
+  "sub-wlsubj056",
+  "sub-wlsubj057",
+  "sub-wlsubj062",
+  "sub-wlsubj064",
+  "sub-wlsubj067",
+  "sub-wlsubj071",
+  "sub-wlsubj076",
+  "sub-wlsubj079",
+  "sub-wlsubj081",
+  "sub-wlsubj083",
+  "sub-wlsubj084",
+  "sub-wlsubj085",
+  "sub-wlsubj086",
+  "sub-wlsubj087",
+  "sub-wlsubj088",
+  "sub-wlsubj090",
+  "sub-wlsubj091",
+  "sub-wlsubj092",
+  "sub-wlsubj094",
+  "sub-wlsubj095",
+  "sub-wlsubj104",
+  "sub-wlsubj105",
+  "sub-wlsubj109",
+  "sub-wlsubj114",
+  "sub-wlsubj115",
+  "sub-wlsubj116",
+  "sub-wlsubj117",
+  "sub-wlsubj118",
+  "sub-wlsubj120",
+  "sub-wlsubj121",
+  "sub-wlsubj122",
+  "sub-wlsubj126"
+ ],
+ "n": 43,
+ "grids": {
+  "2.0": {
+   "group_mean_far": 0.03000230526521909,
+   "group_gt5": 0.17348451576275972,
+   "group_gt10": 0.03394116281065604,
+   "regions": {
+    "bankssts": {
+     "mean_far": 0.05647155487849628,
+     "share_gt10": 0.22094015505705897,
+     "n": 86
+    },
+    "caudalanteriorcingulate": {
+     "mean_far": 0.03022981711462734,
+     "share_gt10": 0.08658392347299738,
+     "n": 86
+    },
+    "caudalmiddlefrontal": {
+     "mean_far": 0.023345287822263094,
+     "share_gt10": 0.05501962382827524,
+     "n": 86
+    },
+    "cuneus": {
+     "mean_far": 0.076734866351636,
+     "share_gt10": 0.2788135100797557,
+     "n": 86
+    },
+    "entorhinal": {
+     "mean_far": 0.0068319748681294834,
+     "share_gt10": 0.016018265280399145,
+     "n": 86
+    },
+    "fusiform": {
+     "mean_far": 0.03030352164971903,
+     "share_gt10": 0.10813006292870507,
+     "n": 86
+    },
+    "inferiorparietal": {
+     "mean_far": 0.03760210012004394,
+     "share_gt10": 0.12489463684588172,
+     "n": 86
+    },
+    "inferiortemporal": {
+     "mean_far": 0.02470421798925559,
+     "share_gt10": 0.07865787768681565,
+     "n": 86
+    },
+    "isthmuscingulate": {
+     "mean_far": 0.05604340604208468,
+     "share_gt10": 0.19205141724886013,
+     "n": 86
+    },
+    "lateraloccipital": {
+     "mean_far": 0.028775263233788536,
+     "share_gt10": 0.09409417650912039,
+     "n": 86
+    },
+    "lateralorbitofrontal": {
+     "mean_far": 0.013180282426474139,
+     "share_gt10": 0.02467958893492066,
+     "n": 86
+    },
+    "lingual": {
+     "mean_far": 0.061357568292412894,
+     "share_gt10": 0.21046732527094314,
+     "n": 86
+    },
+    "medialorbitofrontal": {
+     "mean_far": 0.0215256208657218,
+     "share_gt10": 0.05295368599203842,
+     "n": 86
+    },
+    "middletemporal": {
+     "mean_far": 0.030687764651341414,
+     "share_gt10": 0.10166520761082755,
+     "n": 86
+    },
+    "parahippocampal": {
+     "mean_far": 0.04154937352557217,
+     "share_gt10": 0.17150711179246078,
+     "n": 86
+    },
+    "paracentral": {
+     "mean_far": 0.03514331096334432,
+     "share_gt10": 0.10406049658282818,
+     "n": 86
+    },
+    "parsopercularis": {
+     "mean_far": 0.0426534924364258,
+     "share_gt10": 0.13367618978549103,
+     "n": 86
+    },
+    "parsorbitalis": {
+     "mean_far": 0.009257212038388456,
+     "share_gt10": 0.01753557873862599,
+     "n": 86
+    },
+    "parstriangularis": {
+     "mean_far": 0.024053036254105483,
+     "share_gt10": 0.060612973171598604,
+     "n": 86
+    },
+    "pericalcarine": {
+     "mean_far": 0.07450602650663991,
+     "share_gt10": 0.23620934132993024,
+     "n": 86
+    },
+    "postcentral": {
+     "mean_far": 0.049586578830949524,
+     "share_gt10": 0.14342572714846807,
+     "n": 86
+    },
+    "posteriorcingulate": {
+     "mean_far": 0.05475563253577572,
+     "share_gt10": 0.20138854382107718,
+     "n": 86
+    },
+    "precentral": {
+     "mean_far": 0.031012839017151458,
+     "share_gt10": 0.08190293546479172,
+     "n": 86
+    },
+    "precuneus": {
+     "mean_far": 0.04492084519296862,
+     "share_gt10": 0.15063898331502087,
+     "n": 86
+    },
+    "rostralanteriorcingulate": {
+     "mean_far": 0.028452668092936374,
+     "share_gt10": 0.07167259460258604,
+     "n": 86
+    },
+    "rostralmiddlefrontal": {
+     "mean_far": 0.013351103595501491,
+     "share_gt10": 0.02415037831757587,
+     "n": 86
+    },
+    "superiorfrontal": {
+     "mean_far": 0.013956519727805566,
+     "share_gt10": 0.026807743745184288,
+     "n": 86
+    },
+    "superiorparietal": {
+     "mean_far": 0.025557372725658264,
+     "share_gt10": 0.05856153870591471,
+     "n": 86
+    },
+    "superiortemporal": {
+     "mean_far": 0.03522031898843258,
+     "share_gt10": 0.09968891665339233,
+     "n": 86
+    },
+    "supramarginal": {
+     "mean_far": 0.03854611789199226,
+     "share_gt10": 0.11126382100162607,
+     "n": 86
+    },
+    "frontalpole": {
+     "mean_far": 0.0028869912737594624,
+     "share_gt10": 0.0013861004496940066,
+     "n": 86
+    },
+    "temporalpole": {
+     "mean_far": 0.004263061802609382,
+     "share_gt10": 0.0023408409670201947,
+     "n": 86
+    },
+    "transversetemporal": {
+     "mean_far": 0.06377887801564562,
+     "share_gt10": 0.22477484652086732,
+     "n": 86
+    },
+    "insula": {
+     "mean_far": 0.029449063777693706,
+     "share_gt10": 0.08174019368596212,
+     "n": 86
+    }
+   }
+  },
+  "3.0": {
+   "group_mean_far": 0.03773978216371328,
+   "group_gt5": 0.28002297960810313,
+   "group_gt10": 0.09164390806429411,
+   "regions": {
+    "bankssts": {
+     "mean_far": 0.08058682545610042,
+     "share_gt10": 0.349205479622139,
+     "n": 86
+    },
+    "caudalanteriorcingulate": {
+     "mean_far": 0.034275509035587466,
+     "share_gt10": 0.18796237185399134,
+     "n": 86
+    },
+    "caudalmiddlefrontal": {
+     "mean_far": 0.032272657304375986,
+     "share_gt10": 0.14719495996047366,
+     "n": 86
+    },
+    "cuneus": {
+     "mean_far": 0.10595373090095882,
+     "share_gt10": 0.38637808272132323,
+     "n": 86
+    },
+    "entorhinal": {
+     "mean_far": 0.010077840859349367,
+     "share_gt10": 0.035660033226915765,
+     "n": 86
+    },
+    "fusiform": {
+     "mean_far": 0.03922142166486169,
+     "share_gt10": 0.17029639274823022,
+     "n": 86
+    },
+    "inferiorparietal": {
+     "mean_far": 0.05460186425059534,
+     "share_gt10": 0.2316341231482771,
+     "n": 86
+    },
+    "inferiortemporal": {
+     "mean_far": 0.031727854555725736,
+     "share_gt10": 0.14186412961164768,
+     "n": 86
+    },
+    "isthmuscingulate": {
+     "mean_far": 0.07307064490465566,
+     "share_gt10": 0.30414772043105354,
+     "n": 86
+    },
+    "lateraloccipital": {
+     "mean_far": 0.03589888949772245,
+     "share_gt10": 0.14561895473384293,
+     "n": 86
+    },
+    "lateralorbitofrontal": {
+     "mean_far": 0.012785592640512003,
+     "share_gt10": 0.06359280704507679,
+     "n": 86
+    },
+    "lingual": {
+     "mean_far": 0.07857978955373011,
+     "share_gt10": 0.28617193304578487,
+     "n": 86
+    },
+    "medialorbitofrontal": {
+     "mean_far": 0.02702738744898413,
+     "share_gt10": 0.15782360143608853,
+     "n": 86
+    },
+    "middletemporal": {
+     "mean_far": 0.04165120712879304,
+     "share_gt10": 0.1855816651315183,
+     "n": 86
+    },
+    "parahippocampal": {
+     "mean_far": 0.05877161043938381,
+     "share_gt10": 0.22812416047865605,
+     "n": 86
+    },
+    "paracentral": {
+     "mean_far": 0.04504321148775322,
+     "share_gt10": 0.21746276559440259,
+     "n": 86
+    },
+    "parsopercularis": {
+     "mean_far": 0.0577459044108588,
+     "share_gt10": 0.25188152636612815,
+     "n": 86
+    },
+    "parsorbitalis": {
+     "mean_far": 0.011827787415257866,
+     "share_gt10": 0.04979087060851063,
+     "n": 86
+    },
+    "parstriangularis": {
+     "mean_far": 0.032212136205301445,
+     "share_gt10": 0.13778413932577288,
+     "n": 86
+    },
+    "pericalcarine": {
+     "mean_far": 0.08455711989116853,
+     "share_gt10": 0.2969484967450738,
+     "n": 86
+    },
+    "postcentral": {
+     "mean_far": 0.06798850192915648,
+     "share_gt10": 0.2607532033533973,
+     "n": 86
+    },
+    "posteriorcingulate": {
+     "mean_far": 0.08048303885868612,
+     "share_gt10": 0.36749507300055934,
+     "n": 86
+    },
+    "precentral": {
+     "mean_far": 0.04365822082138946,
+     "share_gt10": 0.18595456293662296,
+     "n": 86
+    },
+    "precuneus": {
+     "mean_far": 0.06216594652705768,
+     "share_gt10": 0.2703687828248807,
+     "n": 86
+    },
+    "rostralanteriorcingulate": {
+     "mean_far": 0.03286442427276629,
+     "share_gt10": 0.16009258308427415,
+     "n": 86
+    },
+    "rostralmiddlefrontal": {
+     "mean_far": 0.01813624683769317,
+     "share_gt10": 0.08285269115495146,
+     "n": 86
+    },
+    "superiorfrontal": {
+     "mean_far": 0.01366972165457072,
+     "share_gt10": 0.0710109411995616,
+     "n": 86
+    },
+    "superiorparietal": {
+     "mean_far": 0.03530445896749207,
+     "share_gt10": 0.16083598128874493,
+     "n": 86
+    },
+    "superiortemporal": {
+     "mean_far": 0.04262774884381358,
+     "share_gt10": 0.20545436987585505,
+     "n": 86
+    },
+    "supramarginal": {
+     "mean_far": 0.054948998056414886,
+     "share_gt10": 0.22712173367315214,
+     "n": 86
+    },
+    "frontalpole": {
+     "mean_far": -0.001474378323003849,
+     "share_gt10": 0.0065964851462506045,
+     "n": 86
+    },
+    "temporalpole": {
+     "mean_far": 0.003699214485520108,
+     "share_gt10": 0.012434205646403206,
+     "n": 86
+    },
+    "transversetemporal": {
+     "mean_far": 0.08317935236941142,
+     "share_gt10": 0.36320342731587646,
+     "n": 86
+    },
+    "insula": {
+     "mean_far": 0.03573619332370567,
+     "share_gt10": 0.15133092826144054,
+     "n": 86
+    }
+   }
+  },
+  "4.0": {
+   "group_mean_far": 0.040243611674681795,
+   "group_gt5": 0.327196629687631,
+   "group_gt10": 0.1505184375673992,
+   "regions": {
+    "bankssts": {
+     "mean_far": 0.10204085836913161,
+     "share_gt10": 0.4120423461449718,
+     "n": 86
+    },
+    "caudalanteriorcingulate": {
+     "mean_far": 0.053012655853887106,
+     "share_gt10": 0.31713582964400394,
+     "n": 86
+    },
+    "caudalmiddlefrontal": {
+     "mean_far": 0.04683951594918657,
+     "share_gt10": 0.23513887352369875,
+     "n": 86
+    },
+    "cuneus": {
+     "mean_far": 0.11968377138897517,
+     "share_gt10": 0.40854056201989786,
+     "n": 86
+    },
+    "entorhinal": {
+     "mean_far": 0.014963964186370676,
+     "share_gt10": 0.06168440439788336,
+     "n": 86
+    },
+    "fusiform": {
+     "mean_far": 0.04231676114194317,
+     "share_gt10": 0.22295237664657963,
+     "n": 86
+    },
+    "inferiorparietal": {
+     "mean_far": 0.06590802372920264,
+     "share_gt10": 0.2964415605582385,
+     "n": 86
+    },
+    "inferiortemporal": {
+     "mean_far": 0.03266143290040072,
+     "share_gt10": 0.1912396753962494,
+     "n": 86
+    },
+    "isthmuscingulate": {
+     "mean_far": 0.060961752973932734,
+     "share_gt10": 0.33770809025853316,
+     "n": 86
+    },
+    "lateraloccipital": {
+     "mean_far": 0.03609896667784528,
+     "share_gt10": 0.1830571595361337,
+     "n": 86
+    },
+    "lateralorbitofrontal": {
+     "mean_far": 0.00898099031587374,
+     "share_gt10": 0.10476764493983952,
+     "n": 86
+    },
+    "lingual": {
+     "mean_far": 0.08155186072663882,
+     "share_gt10": 0.31521944271481894,
+     "n": 86
+    },
+    "medialorbitofrontal": {
+     "mean_far": 0.03410655337390681,
+     "share_gt10": 0.23843340826984363,
+     "n": 86
+    },
+    "middletemporal": {
+     "mean_far": 0.055299858204820876,
+     "share_gt10": 0.2530452810186024,
+     "n": 86
+    },
+    "parahippocampal": {
+     "mean_far": 0.06225929823134852,
+     "share_gt10": 0.25532554108306627,
+     "n": 86
+    },
+    "paracentral": {
+     "mean_far": 0.0645968660379551,
+     "share_gt10": 0.3189215344382661,
+     "n": 86
+    },
+    "parsopercularis": {
+     "mean_far": 0.07781709659039517,
+     "share_gt10": 0.3463887237941549,
+     "n": 86
+    },
+    "parsorbitalis": {
+     "mean_far": 0.017102699372216316,
+     "share_gt10": 0.08724324448411329,
+     "n": 86
+    },
+    "parstriangularis": {
+     "mean_far": 0.03943889708749848,
+     "share_gt10": 0.20497884425055982,
+     "n": 86
+    },
+    "pericalcarine": {
+     "mean_far": 0.07618251327007215,
+     "share_gt10": 0.30020664901625604,
+     "n": 86
+    },
+    "postcentral": {
+     "mean_far": 0.08089324273990474,
+     "share_gt10": 0.32001986567786606,
+     "n": 86
+    },
+    "posteriorcingulate": {
+     "mean_far": 0.11043992385052324,
+     "share_gt10": 0.46207133115244303,
+     "n": 86
+    },
+    "precentral": {
+     "mean_far": 0.052549857334786725,
+     "share_gt10": 0.2670180468693233,
+     "n": 86
+    },
+    "precuneus": {
+     "mean_far": 0.06735961214902168,
+     "share_gt10": 0.33542409187331473,
+     "n": 86
+    },
+    "rostralanteriorcingulate": {
+     "mean_far": 0.055488656206814285,
+     "share_gt10": 0.292486387059245,
+     "n": 86
+    },
+    "rostralmiddlefrontal": {
+     "mean_far": 0.023319583774746536,
+     "share_gt10": 0.14571504437092286,
+     "n": 86
+    },
+    "superiorfrontal": {
+     "mean_far": 0.022585201406440915,
+     "share_gt10": 0.1475914188938417,
+     "n": 86
+    },
+    "superiorparietal": {
+     "mean_far": 0.044760523846690596,
+     "share_gt10": 0.2324344402438687,
+     "n": 86
+    },
+    "superiortemporal": {
+     "mean_far": 0.0584902358546459,
+     "share_gt10": 0.2934595457037,
+     "n": 86
+    },
+    "supramarginal": {
+     "mean_far": 0.062200492809875635,
+     "share_gt10": 0.29718830427747234,
+     "n": 86
+    },
+    "frontalpole": {
+     "mean_far": 0.004536502061394537,
+     "share_gt10": 0.032481449322541864,
+     "n": 86
+    },
+    "temporalpole": {
+     "mean_far": 0.003981525501872888,
+     "share_gt10": 0.03830245666843475,
+     "n": 86
+    },
+    "transversetemporal": {
+     "mean_far": 0.09716752024213753,
+     "share_gt10": 0.41804470018046336,
+     "n": 86
+    },
+    "insula": {
+     "mean_far": 0.02447561245783058,
+     "share_gt10": 0.1982558750382488,
+     "n": 86
+    }
+   }
+  }
+ }
+}
