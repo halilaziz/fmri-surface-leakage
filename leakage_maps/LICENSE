@@ -1,0 +1,12 @@
+The group leakage maps in this folder (the group_leakage*.func.gii files and this README) are
+Copyright (c) 2026 Halil Aziz Velioğlu and are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+(legal code: https://creativecommons.org/licenses/by/4.0/legalcode).
+
+You may share and adapt them for any purpose, including commercially, provided that you give
+appropriate credit (cite the paper and this repository), provide a link to the licence and
+indicate if changes were made.
+
+The surface meshes in this folder (fs_LR 32k from the Human Connectome Project / Connectome
+Workbench, fsaverage from FreeSurfer) are redistributed from their sources under those sources'
+own terms and are not covered by this licence.

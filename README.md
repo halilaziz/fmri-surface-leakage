@@ -102,4 +102,4 @@ the share of subjects above 5%.
 
 ## Citation and licence
 
-Please cite the paper (bioRxiv preprint; DOI to be added) and the datasets above. Licence: **[to be chosen]**.
+Please cite the paper (bioRxiv preprint; DOI to be added) and the datasets above. Licence: the code and text of this repository are released under the MIT License (`LICENSE`); the group leakage maps in `leakage_maps/` are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0, `leakage_maps/LICENSE`). The surface meshes in `leakage_maps/` are redistributed from their sources (HCP / Connectome Workbench fs_LR 32k, FreeSurfer fsaverage) under those sources' own terms.
